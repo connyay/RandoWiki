@@ -1,13 +1,12 @@
 /*global define */
 
 define([
-    'app',
     'backbone',
     'vent',
     'models/Article',
     'localStorage',
     'WikiClient'
-], function(app, Backbone, vent, Article, LocalStorage, Wiki) {
+], function(Backbone, vent, Article, LocalStorage, Wiki) {
     'use strict';
 
     return Backbone.Collection.extend({
