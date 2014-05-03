@@ -46,7 +46,7 @@ define([
             });
             new DropDownMenuView({
                 el: '#favorites',
-                model: historyModel,
+                model: favoritesModel,
                 collection: this.collection
             }).render();
         },
