@@ -1,0 +1,27 @@
+{
+    "name": "RandoWiki",
+    "description": "Fetches random wikipedia articles",
+    "homepage": "https://github.com/connyay/RandoWiki",
+    "version": "0.0.1",
+    "author": {
+        "name": "connyay",
+        "url": "https://github.com/connyay",
+        "role": "Developer"
+    },
+    "devDependencies": {
+        "gulp-replace": "^0.2.0",
+        "gulp": "^3.6.2",
+        "gulp-util": "^2.2.14",
+        "gulp-less": "^1.2.3",
+        "gulp-jshint": "^1.5.5",
+        "jshint-stylish": "^0.2.0",
+        "gulp-concat": "^2.2.0",
+        "path": "^0.4.9",
+        "gulp-shell": "^0.2.4",
+        "gulp-jsmin": "^0.1.4",
+        "gulp-rename": "^1.2.0"
+    },
+    "dependencies": {
+        "gulp-minify-css": "^0.3.4"
+    }
+}
