@@ -8,6 +8,7 @@ require.config({
         virtualCollection: '../bower_components/backbone-virtual-collection/backbone.virtual-collection',
         tpl: 'lib/tpl',
         bootstrap: 'lib/bootstrap',
+        chai: 'lib/chai'
     },
 
     shim: {
