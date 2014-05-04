@@ -16,7 +16,7 @@
 5. `http-server -c-1`
 6. Done!
 
-Spin up a local build with gulp fullbuild
+Spin up a local build with `gulp fullbuild`
 
 <br>
 
