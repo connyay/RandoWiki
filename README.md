@@ -10,11 +10,13 @@
 ---
 ## Local dev:
 1. `git clone https://github.com/connyay/RandoWiki.git`
-2. Install dependencies (bower install & npm install)
+2. Install dependencies (`bower install` & `npm install`)
 3. Comment out built script and styles in index.html (b/styles.css and b/main)
 4. Uncomment dev script and styles (css/styles.css and js/main)
 5. `http-server -c-1`
 6. Done!
+
+Spin up a local build with gulp fullbuild
 
 <br>
 
